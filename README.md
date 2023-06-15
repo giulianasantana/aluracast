@@ -1,13 +1,16 @@
 <p align="center"> <img src="https://github.com/giulianasantana/aluracast/assets/133705620/c9e2da53-a6e8-4953-9c0b-9750327799b2" alt="Logo da alura plus"> </p>
 <h2 align="center">Projeto AluraCast desenvolvido no curso CSS: construindo layouts com Grid da Alura</h2>
 
+![aluracast](https://github.com/giulianasantana/aluracast/assets/133705620/f7e61838-2ca7-4e0d-bff5-78b455b5cd82)
+
 ## Tecnologias 💻
 * HTML
 * CSS
 * Grid
 * Flexbox
 
-## Layout 🖥
+## Deploy e Layout 🖥
+Você pode conferir o projeto aqui: https://aluracast-giulianasantana.vercel.app/ <br>
 Layout baseado em: https://www.figma.com/file/Cs3tPE5ZrxD7PfaAsK2AMb/Projeto-Grid---Alura-Cast?type=design&node-id=0-1&t=Xd23fZGriEPHpXk8-0
 
 
